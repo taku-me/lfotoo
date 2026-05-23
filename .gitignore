@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+build/
+dist/
+
+# VST / CMake
+vst/build/
+vst/cmake-build-*/
+
+# Artifacts
+*.json.tmp
+/tmp/
